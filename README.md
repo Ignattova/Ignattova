@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Ignattova/Ignattova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💧 I'm a hydraulic engineer with over 9 years of experience in the design of river training works, irrigation and drainage systems, bank protection structures, and other water infrastructure projects.
 
-Here are some ideas to get you started:
+📘 Currently, I'm a PhD student at UACEG and separately following the Python development path at SoftUni.  
+My goal is to apply my newly acquired knowledge to real-world engineering challenges, blending hydraulics with modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Interests & Focus
+
+- 🐍 Applying **Python** in engineering workflows  
+- 🧠 Exploring the potential of **ML** and **AI**  
+- 📊 Developing innovative approaches to **data analysis**, **simulation**, and **modeling**
+
+---
+
+📫 You can reach me at: ignatovatemenuzhka@gmail.com
